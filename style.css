@@ -1,0 +1,37 @@
+.class1{
+    padding:20px;
+    text-align:center;
+    height: 100px;
+    width: 97%;
+    background-color: #e3eaa7;
+    border: 1px solid white;
+}
+
+.class2{
+    position: relative;
+    text-align: center;
+    font-size: 18px; 
+    color: black;
+    
+}
+.class3{
+   
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   margin:5px;
+   text-align: center;
+   list-style-position:inside;
+}
+.ul-ortala {
+    margin-left: auto;
+    margin-right: auto;
+    width: 14em;
+    text-align:left;
+    font-size: medium;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+   color: darkslategrey;
+  }
+.hakkımızda{
+    color:#964b2d;
+    font-family:'Roboto Mono', monospace;
+}
