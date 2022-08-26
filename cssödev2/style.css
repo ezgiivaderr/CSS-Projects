@@ -1,0 +1,93 @@
+#google{
+    margin-right: 38%;
+    margin-left: 38%;
+    width:351px;
+    height:113px;
+    
+}
+.container{
+    margin:0 auto auto;
+    width:90%;
+    height:135px;
+   
+}
+.box1{
+    width:auto;
+    height: 62.4px;
+    background-color:rgb(239, 238, 238);
+
+   
+}
+.box2{
+    width: auto;
+    height: 75px;
+}
+.table1{
+    float:left;
+    width:37%;
+    height: 75px;
+    margin-top:1px;
+    background-color:turquoise;
+    
+}
+.table2{
+    float: left;
+    width:20.2%;
+    background-color:rgb(61, 197, 183);
+    height: 75px;
+    margin:1px 2px 1px 2px;
+    font-size: small;
+    
+}
+.table3{
+    float:left;
+    width:42.46%;
+    background-color:rgb(56, 175, 164);
+    margin-top: 1px;
+    height: 75px;
+}
+.center{
+    
+    text-align: center;
+}
+.btn{ 
+    border:1;
+    padding-bottom:4px;
+    border-radius:1;
+    background-color:white;
+    width:303px;
+    height:22px;
+    border-color:gainsboro;
+    margin: 0em;
+}
+p{
+    margin-bottom: auto;
+    margin-top: auto;
+}
+.padding{
+    padding-top:10px;
+}
+.btn2{
+   
+    padding-bottom:4px;
+    border-radius:1;
+    background-color:white;
+    width:180px;
+    height:22px;
+    border-color: rgb(180, 180, 180);
+    margin: 0em;
+    text-align: left;
+}
+#btn{
+    border-radius:1px ;
+    /* border:1px solid black; */
+    text-decoration:none;
+    /* background-color:rgb(239, 238, 238); */
+    color:black;
+    border-width: 2px;
+    border-color: buttonborder;
+    background-color: buttonface;
+    font-family:'Times New Roman', Times, serif;
+
+    
+}
